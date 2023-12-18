@@ -1,9 +1,6 @@
 
   ## ReadME-creator
 
-  ## Badges
-
-  undefined
 
   ## Description
 
@@ -28,21 +25,6 @@
 
   There no extra instructions
 
-  ## Contributing
-
-  No collaborators
-  
-  ## Tests
-
-  Some test
-
-  
-
-  undefined
-
-
-  undefined
-  
   ## Questions
 
   If you have any question reach me via email.
